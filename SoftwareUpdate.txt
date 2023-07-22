@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
