@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
